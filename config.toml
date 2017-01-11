@@ -1,3 +1,15 @@
-title = "My New Hugo Site"
-baseurl = "http://example.org/"
 languageCode = "en-us"
+baseurl = "http://www.jeffbour.com"
+theme = "cocoa"
+author = "Jeff Bour"
+title = "Jeff Bour"
+publishdir = "public"
+
+[params]
+  author = "Jeff Bour"
+  github = "https://github.com/jbour20"
+  linkedin = "https://www.linkedin.com/in/jeff-bour-454a1275"
+  email = "jeff@jeffbour.com"
+  cachebuster = true
+  highlightjs = false
+  description = "Welcome to my site"
